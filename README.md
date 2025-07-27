@@ -201,6 +201,11 @@ CareBoxx has been proudly recognized in various competitions and innovation show
 
 <h4>🥉 3rd Place 3RD PLACE – NATIONAL PEEC STARTUP COMPETITION 2024 </h4> 
 
+
+<h2> 🔒 Note: </h2> 
+
+The full wiring diagrams, source code, and build instructions for this project are private, as this is an original creation developed by me. If you're interested in learning more or would like to collaborate, feel free to contact me directly.
+
  
 
 
