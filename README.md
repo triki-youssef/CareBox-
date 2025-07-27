@@ -100,6 +100,9 @@ RoboCare-lite is a small automated box where the user (or caregiver) loads 3 dos
 - Demo - <br/>
 <img src="https://i.imgur.com/JTDzkSJ.jpeg" height="40%" width="40%" alt="Disk Sanitization Steps"/>
   <img src="https://i.imgur.com/WT7c73S.jpeg" height="40%" width="40%" alt="Disk Sanitization Steps"/>
+
+ [Demo](https://github.com/user-attachments/assets/3ea213c3-6e4b-48de-9809-6ae7c67984b6)
+  
   
 
   
@@ -172,8 +175,32 @@ The CareBoxx mobile app:
 ✅ No internet required for detection or alerting
 
 
+<h2>📹 Demo Video </h2>
+You can find the demo video of the CareBoxx product in the project files.
+To view it:
+
+- Go to the files or media folder in this repository.
+
+- Download the video file to your device.
+
+- Open it with any standard video player.
+
+🎥 The video showcases how CareBoxx works, including RoboCare-lite, Vitals Monitoring, and EpyCare in action.
 
 
-<h2>Components and Tools Used</h2>
+<h2>🏆 Awards & Achievements </h2> 
+
+
+
+CareBoxx has been proudly recognized in various competitions and innovation showcases for its impact in healthcare and assistive robotics:
+
+
+<h4>🥇 1st Place - IEEE TSYP 2024/2025 TECHNICAL CHALLENGE (MEDICAL FIELD)</h4>
+
+<h4>🥉 3rd Place - IEEE TSYP 2023/2024 EMBS TECHNICAL CHALLENGE </h4> 
+
+<h4>🥉 3rd Place 3RD PLACE – NATIONAL PEEC STARTUP COMPETITION 2024 </h4> 
+
+ 
 
 
